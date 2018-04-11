@@ -163,7 +163,7 @@ function CmapEncoding(cmap) {
  * @return {number} The glyph index.
  */
 CmapEncoding.prototype.charToGlyphIndex = function(c) {
-    return this.cmap.glyphIndexMap[c.charCodeAt(0)] || 0;
+    return this.cmap.glyphIndexMap[c.charCodeAt(0)] || this.cmap.glyphIndexMap[c.charCodeAt(0)+0xF000] || 0;
 };
 
 /**

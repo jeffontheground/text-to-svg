@@ -2614,9 +2614,9 @@ onetime@^1.0.0:
   version "1.1.0"
   resolved "http://registry.npmjs.org/onetime/-/onetime-1.1.0.tgz#a1f7838f8314c516f05ecefcbc4ccfe04b4ed789"
 
-opentype.js@jeffontheground/opentype.js#41021df0d50158af8061976a4241a0234c7427ec:
+opentype.js@jeffontheground/opentype.js#0ba92d8da4340d01974d7c5e4f50f5acdda6ee97:
   version "0.7.3"
-  resolved "https://codeload.github.com/jeffontheground/opentype.js/tar.gz/41021df0d50158af8061976a4241a0234c7427ec"
+  resolved "https://codeload.github.com/jeffontheground/opentype.js/tar.gz/0ba92d8da4340d01974d7c5e4f50f5acdda6ee97"
   dependencies:
     tiny-inflate "^1.0.2"
 
